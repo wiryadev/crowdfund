@@ -1,4 +1,4 @@
-module crowdfund
+module crowdfund-be
 
 go 1.19
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"crowdfund/user"
+	"crowdfund-be/user"
 	"log"
 	"net/http"
 
